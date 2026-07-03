@@ -44,3 +44,13 @@ button{
         border-radius: 10px;
         max-width: 100px;
     }
+
+
+    img{
+    width: 300px;
+    height: auto;
+}
+
+hr{
+    width: 100%;
+}

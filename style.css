@@ -7,6 +7,19 @@ body{
     justify-content: center;
 }
 
+#trama,
+#ListaDePersonagens,
+#caine,
+#bolha,
+#pomni,
+#ragatha,
+#gangle,
+#jax,
+#kinger,
+#zooble{
+    width: 80%;
+    max-width: 900px;
+}
 
 h1{
     font-size: 50px;

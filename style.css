@@ -67,3 +67,36 @@ button{
 hr{
     width: 100%;
 }
+
+
+#c{
+    color: red;
+}
+
+#b{
+    color: white;
+}
+
+#p{
+    color: blue;
+}
+
+#j{
+    color: purple;
+}
+
+#r{
+    color: orangered;
+}
+
+#k{
+    color: yellow;
+}
+
+#g{
+    color: green;
+}
+
+#z{
+    color: rgba(133, 79, 9, 0.788);
+}

@@ -1,6 +1,6 @@
 # Atividade Avaliativa
 Digital Circus (TADC)
-# 🎪 Guia Digital Circus (Nome do seu site)
+# 🎪 Guia Digital Circus (Digital circus)
 
 > Um site informativo e interativo dedicado ao universo de *The Amazing Digital Circus*.
 
@@ -12,18 +12,11 @@ Este projeto é um site focado em reunir todas as informações essenciais sobre
 O site está dividido nas seguintes seções:
 * **A Trama:** Uma explicação profunda sobre o que é o circo, o mistério por trás dos headsets de realidade virtual e o vazio (The Void).
 * **Enciclopédia de Personagens:** Páginas individuais detalhadas para cada membro do circo.
-    * *Tópicos abordados:* Aparência, Personalidade, História (o que sabemos até agora) e Curiosidades.
+    * *Tópicos abordados:* Aparência, Personalidade.
     * *Personagens incluídos:* Pomni, Jax, Ragatha, Caine, Bubble, Kinger, Zooble e Gangle.
 
 ## 🚀 Tecnologias Utilizadas
 * HTML5
 * CSS3 (ou Tailwind / Bootstrap)
 * JavaScript
-* [Outra tecnologia que você usou, ex: React]
 
-## 💻 Como Executar o Projeto Localmente
-Siga os passos abaixo para rodar o site no seu próprio computador:
-
-1. Faça um clone deste repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
